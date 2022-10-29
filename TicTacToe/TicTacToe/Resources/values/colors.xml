@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">@color/browser_actions_bg_grey</color>
+  <color name="purple_200">#FFBB86FC</color>
+  <color name="purple_500">#5A5A5A</color>
+  <color name="purple_700">#5A5A5A</color>
+  <color name="teal_200">#FF0000</color>
+  <color name="teal_700">#448EE2</color>
+  <color name="black">#FF000000</color>
+  <color name="white">#FFFFFFFF</color>
+</resources>
